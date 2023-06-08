@@ -12,6 +12,7 @@ Assign the values of first variable
 ## Step 3:
 Substitute the values in the distance formula
 formula
+![Screenshot 2023-06-08 122124](https://github.com/AnandhamoorthyKarthikeyan/DISTANCE-BETWEEN-TWO-POINTS/assets/119475998/a8fe43b5-e672-43d0-948f-aa35cba3a91d)
 
 ## Step 4:
 Assign the values of second variable
